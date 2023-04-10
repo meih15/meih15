@@ -19,4 +19,4 @@ A little about me 😄:
 - I'm currently learning Python 🐍
 - I created three projects you can find below ⬇️
 - You can find me watching watching anime/dramas, playing video games, or reading in my free time 🙆‍♀️
-- Email: [meihuang8328@gmail.com](mailto:meihuang8328@gmail.com)
+- Email: [meihuang8328@gmail.com](mailto:meihuang8328@gmail.com) | [Linkedin](linkedin.com/in/mei-huang-ba967a159/)
