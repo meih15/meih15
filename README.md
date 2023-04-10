@@ -20,11 +20,11 @@ A little about me 😄:
 - I'm currently learning Python 🐍
 - I created three projects you can find below ⬇️
 - You can find me watching watching anime/dramas, playing video games, or reading in my free time 🙆‍♀️
-- How to reach me: [meihuang8328@gmail.com 📫](mailto:meihuang8328@gmail.com) |   <a target='_blank' href="https://www.linkedin.com/in/mei-huang-ba967a159/">
+- How to reach me: <a target='_blank' href="https://www.linkedin.com/in/mei-huang-ba967a159/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> |  <a target='_blank' href="https://wellfound.com/u/mei-huang-15">
     <img src="https://img.shields.io/badge/Wellfound-orange?style=for-the-badge&logo=wellfound&logoColor=white" alt="Wellfound Badge"/>
-  </a>
+  </a> | [meihuang8328@gmail.com 📫](mailto:meihuang8328@gmail.com)
 
 ---
 
