@@ -16,7 +16,14 @@ Here are some ideas to get you started:
 
 A little about me 😄:
 - I am a full stack software engineer 👩‍💻
+- I graduated from App Academy, a competitive software engineer bootcamp for web development 🎓
 - I'm currently learning Python 🐍
 - I created three projects you can find below ⬇️
 - You can find me watching watching anime/dramas, playing video games, or reading in my free time 🙆‍♀️
-- Email: [meihuang8328@gmail.com](mailto:meihuang8328@gmail.com) | [Linkedin](https://www.linkedin.com/in/mei-huang-ba967a159/)
+- Email: [meihuang8328@gmail.com](mailto:meihuang8328@gmail.com) |   <a href="https://www.linkedin.com/in/timothy-s-chang/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> | 
+
+Technologies Used: 
+
+
